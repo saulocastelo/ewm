@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Two years ago between christmas and new year I wrote a tiny and incomplete 6502 emulator and turned it into an original *Apple 1* emulator. It was a fun and nostalgic project to work on. I grew up with the *Apple II* and never had a change to see an *Apple 1* in action.
+Two years ago between christmas and new year I wrote a tiny and incomplete 6502 emulator and turned it into an original *Apple 1* emulator. It was a fun and nostalgic project to work on. I grew up with the *Apple II* and never had a chance to see an *Apple 1* in action.
 
 A few weeks ago I decided to pick this project up again. I am extremely motivated to turn this into a high quality emulator that supports the *Apple 1*, *Replica 1*, *Apple ][+* and *Apple IIe*. Some of that work is really close to being finished, other work will take many months of spare time hacking.
 
